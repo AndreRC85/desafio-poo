@@ -28,5 +28,5 @@ classDiagram
       +atualizarPagina()void
     }
 ```
-https://github.com/glysns/trilha-java-basico/desafios/poo/README.md
+exemplo em https://github.com/glysns/trilha-java-basico/desafios/poo/README.md
 ```` 
